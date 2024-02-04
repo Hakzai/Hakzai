@@ -1,9 +1,9 @@
-### Hi there 👋
-## Profile Overview
+## Hi there 👋
+### Profile Overview
 <details>
     <summary>:zap: <strong>Languages </strong></summary>
     <br>
-    <img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight"></img>
+    <img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakzai&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight"></img>
 </details>
 
 <!--
