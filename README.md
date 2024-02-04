@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Hakzai&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight
+
 <!--
 **Hakzai/Hakzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
